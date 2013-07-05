@@ -1,1 +1,7 @@
-all love pre-s�
+-GUI: (ho visto un plugin che si chiama guiedit, così la possiamo fare ingame)
+-Veicoli che sparano: (ho visto delle nuove funzioni come createWeapon e fireWeapon)
+-Difese: si possono fare come quello sopra (più o meno)
+-Trigger e Pickups: in teoria anche per questo esistono alcuni plugin che ci faciliteranno, in questo modo basterà leggere la posizione nel file .map e così sarà èiù semplice aggiungere nuove mappe con la stessa modalità
+-Cose aggiuntive: ... 
+
+all love pre-s�
